@@ -64,6 +64,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #CFD8DC;
+  overflow-x: hidden;
   text-align: left;
   background-color: #000000; }
 
