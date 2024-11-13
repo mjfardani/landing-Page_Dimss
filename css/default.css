@@ -10119,6 +10119,7 @@ body {
 
 /**slick slider */
 .slick-dots {
+  position: relative;
   top: -4rem;
 }
 .slick-dots li button::before {
