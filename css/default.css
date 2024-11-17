@@ -9519,6 +9519,7 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important;
+  padding-bottom: 20px !important;
 }
 
 @media (min-width: 576px) {
@@ -10074,11 +10075,9 @@ body {
 }
 .features-list li {
   float: left;
-  width: 50%;
   margin-top: 0;
   margin-bottom: 1.75rem;
   font-size: 1.05rem;
-  padding-left: 1.75rem;
   font-weight: 500;
 }
 .features-list li:before {
